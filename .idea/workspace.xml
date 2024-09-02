@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac728f1e-be43-48b9-879f-d7a5b2032f5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Iphone.java" afterDir="false" />
-    </list>
+    <list default="true" id="ac728f1e-be43-48b9-879f-d7a5b2032f5c" name="Changes" comment="Add Iphone Class and Interfaces" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725310042426</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Iphone Class and Interfaces">
+      <option name="closed" value="true" />
+      <created>1725310794880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725310794880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Iphone Class and Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Iphone Class and Interfaces" />
   </component>
 </project>
